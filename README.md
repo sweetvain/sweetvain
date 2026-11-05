@@ -2,10 +2,10 @@
 
 <h1>Ely Al Haiba</h1>
 
-<p><b>Junior software developer · Student @ 42 Le Havre</b><br>
-C · C++ · Python · Artificial Intelligence</p>
+<p><b>Cybersecurity enthusiast · Junior developer · Student @ 42 Le Havre</b><br>
+C · C++ · Python · Linux · Offensive & defensive security</p>
 
-<p><i>Looking for a work-study position (alternance) in software development</i></p>
+<p><i>Looking for a work-study position (alternance) in cybersecurity</i></p>
 
 <a href="https://www.linkedin.com/in/al-haiba-ely-359ba0257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://img.shields.io/badge/42-Le%20Havre-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Le Havre">
@@ -21,11 +21,25 @@ I have been studying at **42 Le Havre since October 2024**, where learning is pr
 
 I have also contributed to web and digital projects at **RED (Redcorp Tech)**, including work around *Art du Barber* and *M'Hani*, which gave me experience on real-world projects in a collaborative setting.
 
-- 🔭 **Now**: Retrieval-Augmented Generation and constrained decoding with small local models
+- 🔐 **Focus**: cybersecurity, learning by practice on **Root-Me** and **TryHackMe**
+- 🔭 **Also exploring**: Retrieval-Augmented Generation and constrained decoding with small local models
 - 🧱 **Foundations**: C and C++ (memory, pointers, POSIX threads) and modern Python (type hints, Pydantic, mypy, flake8)
 - 🤝 **Way of working**: pair projects, Git, code reviews
-- 🎯 **Goal**: a work-study position (alternance) in software development
+- 🎯 **Goal**: a work-study position (alternance) in cybersecurity
 - 🗣️ **Languages**: French, English
+
+<br>
+
+## Cybersecurity
+
+I train on hands-on platforms and I am building my skills one challenge at a time:
+
+| Platform | Activity |
+| :-- | :-- |
+| **Root-Me** | Challenges completed across several categories |
+| **TryHackMe** | Rooms and learning paths completed |
+
+Knowing C, memory management and Linux from the inside is what makes vulnerabilities such as buffer overflows and misconfigurations easier for me to understand, and not only exploit.
 
 <br>
 
@@ -39,6 +53,7 @@ I have also contributed to web and digital projects at **RED (Redcorp Tech)**, i
 
 | | |
 | :-- | :-- |
+| **Security** | Root-Me, TryHackMe, hands-on challenges (CTF-style), Linux command line |
 | **Languages** | C, C++, Python, HTML, CSS |
 | **AI / Data** | LLM, RAG, BM25, function calling, constrained decoding, PyTorch, Transformers, Pydantic |
 | **Systems** | Memory management, pointers, compilation, Makefile, POSIX threads, synchronization, data structures |
