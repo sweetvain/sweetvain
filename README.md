@@ -8,6 +8,8 @@ C · C++ · Python · Linux · Offensive & defensive security</p>
 <p><i>Looking for a work-study position (alternance) in cybersecurity</i></p>
 
 <a href="https://www.linkedin.com/in/al-haiba-ely-359ba0257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.root-me.org/Ely-1114381"><img src="https://img.shields.io/badge/Root--Me-Profile-E11D48?style=for-the-badge" alt="Root-Me"></a>
+<a href="https://tryhackme.com/p/haibaely6"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
 <img src="https://img.shields.io/badge/42-Le%20Havre-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Le Havre">
 <img src="https://img.shields.io/badge/Le%20Havre%2C%20France-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Le Havre, France">
 
@@ -36,8 +38,8 @@ I train on hands-on platforms and I am building my skills one challenge at a tim
 
 | Platform | Activity |
 | :-- | :-- |
-| **Root-Me** | Challenges completed across several categories |
-| **TryHackMe** | Rooms and learning paths completed |
+| [**Root-Me**](https://www.root-me.org/Ely-1114381) | Challenges completed across several categories |
+| [**TryHackMe**](https://tryhackme.com/p/haibaely6) | Rooms and learning paths completed |
 
 Knowing C, memory management and Linux from the inside is what makes vulnerabilities such as buffer overflows and misconfigurations easier for me to understand, and not only exploit.
 
