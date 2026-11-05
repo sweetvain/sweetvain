@@ -1,13 +1,15 @@
 <div align="center">
 
-<h1>Ely</h1>
+<h1>Ely Al Haiba</h1>
 
-<p><b>Software engineering student @ 42 Le Havre</b><br>
-Python · C · Algorithms · Applied AI</p>
+<p><b>Junior software developer · Student @ 42 Le Havre</b><br>
+C · C++ · Python · Artificial Intelligence</p>
+
+<p><i>Looking for a work-study position (alternance) in software development</i></p>
 
 <a href="https://www.linkedin.com/in/al-haiba-ely-359ba0257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://img.shields.io/badge/42-Le%20Havre-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Le Havre">
-<img src="https://img.shields.io/badge/France-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="France">
+<img src="https://img.shields.io/badge/Le%20Havre%2C%20France-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Le Havre, France">
 
 </div>
 
@@ -15,12 +17,15 @@ Python · C · Algorithms · Applied AI</p>
 
 ## About
 
-I study at **42**, where everything is project-based and peer-reviewed. I like building things from the ground up, from a C standard library to multithreaded simulations and local LLM pipelines, and I care about code that is **readable, typed, tested and linted**.
+I have been studying at **42 Le Havre since October 2024**, where learning is project-based and peer-reviewed. My work covers low-level development in C, concurrency, algorithms and AI (LLM, RAG). I like building things from the ground up, from a C standard library to multithreaded simulations and local LLM pipelines, and I care about code that is **readable, typed, tested and linted**.
+
+I have also contributed to web and digital projects at **RED (Redcorp Tech)**, including work around *Art du Barber* and *M'Hani*, which gave me experience on real-world projects in a collaborative setting.
 
 - 🔭 **Now**: Retrieval-Augmented Generation and constrained decoding with small local models
-- 🧱 **Foundations**: C (memory, processes, threads) and modern Python (type hints, Pydantic, mypy, flake8)
+- 🧱 **Foundations**: C and C++ (memory, pointers, POSIX threads) and modern Python (type hints, Pydantic, mypy, flake8)
 - 🤝 **Way of working**: pair projects, Git, code reviews
-- 📫 **Open to** internship and apprenticeship opportunities
+- 🎯 **Goal**: a work-study position (alternance) in software development
+- 🗣️ **Languages**: French, English
 
 <br>
 
@@ -28,16 +33,28 @@ I study at **42**, where everything is project-based and peer-reviewed. I like b
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,js,html,css,bash,linux,git,github,vscode&perline=10" alt="Python, C, JavaScript, HTML, CSS, Bash, Linux, Git, GitHub, VS Code">
+<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bash,linux,git,github,vscode&perline=10" alt="C, C++, Python, HTML, CSS, Bash, Linux, Git, GitHub, VS Code">
 
 </div>
 
 | | |
 | :-- | :-- |
-| **AI / Data** | RAG, BM25, PyTorch, Hugging Face Transformers, constrained decoding, Pydantic |
-| **Systems** | Linux, POSIX threads, Makefile |
+| **Languages** | C, C++, Python, HTML, CSS |
+| **AI / Data** | LLM, RAG, BM25, function calling, constrained decoding, PyTorch, Transformers, Pydantic |
+| **Systems** | Memory management, pointers, compilation, Makefile, POSIX threads, synchronization, data structures |
+| **Algorithms** | Graphs, pathfinding (BFS), sorting, optimization, concurrent programming |
 | **Quality** | pytest, mypy, flake8, type hints, 42 Norm |
-| **Workflow** | Git, GitHub, uv, pair programming, peer evaluation |
+| **Workflow** | Linux, Git, GitHub, command line, uv, pair programming, peer evaluation |
+
+<br>
+
+## Experience
+
+**Contributor on digital projects** · RED (Redcorp Tech)
+Support on several web and digital projects, notably around *Art du Barber* and *M'Hani*, working on concrete needs in a collaborative context.
+
+**42 Le Havre** · Software development program · *Oct 2024 – present*
+Intensive project-based learning and peer learning: low-level C/C++, algorithms, memory management, system programming, Python and AI applications.
 
 <br>
 
